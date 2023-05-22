@@ -1,0 +1,37 @@
+header {
+    background-color: rgb(0, 21, 255);
+    margin: 20px,10px,20px,10px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+footer {
+    background-color: blue;
+    margin-top: 75px;
+    padding-top: 100px;
+    padding-bottom: 125px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Missing-puppies {
+    font-size: 30px;
+    background-color: rgb(207, 27, 11);
+
+}
+img {
+    max-width: 100%;
+}
+
+* {
+    display: auto;
+    padding: 0;
+    margin: 0;
+}
+#banner {
+    display: block;   
+    display: inline-block;
+}
+.puppies-section {
+    display: flex;
+}
